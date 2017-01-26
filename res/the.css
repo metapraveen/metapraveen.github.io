@@ -17,6 +17,10 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
+body {
+  padding-top: 2em;
+}
+
 a {
   text-decoration: none;
   color: #85242f;
@@ -74,6 +78,7 @@ sub {
   -webkit-border-radius: 999px;
   -khtml-border-radius: 999px;
   -moz-border-radius: 999px;
+  background-color: #d6d2ea;
 }
 
 .header-ad, .header-ad:hover, .header-ad:active {
@@ -225,6 +230,11 @@ footer {
   line-height: 1.5em;
 }
 
+.site-header .description {
+  font-style: italic;
+ }
+
+
 /* Big screen */
 
 @media screen and (min-width: 700px) {
@@ -269,6 +279,7 @@ footer {
     margin-bottom: 3em;
     text-align: center;
     line-height: 1.5em;
+    font-style: italic;
   }
 
   .site-header nav {
@@ -308,10 +319,10 @@ footer {
     float: left;
     width: 72.5%;
     margin-left: 2.5%;
-    padding-top: 3em;
     max-width: 800px;
     vertical-align: top;
     background-color: #fff;
+    padding: 10px;
   }
 
   article .body pre {
@@ -333,6 +344,10 @@ footer {
 
 @media screen and (max-width: 700px) {
 
+  .site-content{
+    padding: 10px;
+  }
+
   .big-only { display: none }
 
   .site-header {
@@ -346,7 +361,6 @@ footer {
 
   .site-header .logo img {
     width: 128px;
-    background-color: #85242f;
   }
 
   .site-header .description {
