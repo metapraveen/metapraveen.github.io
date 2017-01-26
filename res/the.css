@@ -17,10 +17,6 @@ html {
   -moz-osx-font-smoothing: grayscale;
 }
 
-body {
-  padding-top: 2em;
-}
-
 a {
   text-decoration: none;
   color: #85242f;
@@ -238,6 +234,10 @@ footer {
 /* Big screen */
 
 @media screen and (min-width: 700px) {
+
+  body {
+    padding-top: 2em;
+  }
 
   .small-only { display: none }
 
