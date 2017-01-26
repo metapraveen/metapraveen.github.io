@@ -4,4 +4,5 @@ author: Praveen
 layout: page
 ---
 
-( Wil be updated soon)
+* Smart calendar  
+A pub sub based calendar to update your out of office and remote work timings instead of sending mail to mailing list.
