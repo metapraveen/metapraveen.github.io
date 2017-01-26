@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+
+<meta charset="utf-8">
+<title>{% if page.title %}{{ page.title }} &rsaquo; {% endif %}Praveen</title>
+<link rel="stylesheet" href="/res/the.css">
+<link rel="shortcut icon" href="/favicon.ico">
+<meta name="viewport" content="width=device-width">
+<link rel="alternate" type="application/rss+xml" title="Feed" href="{{ site.url }}/feed.xml">
+<!--[if lt IE 9]>
+<script src="//ie7-js.googlecode.com/svn/version/2.1(beta4)/IE9.js"></script>
+<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+<![endif]-->
+
+</head>
+<body>
+
+<header class="site-header">
+  <h1>
+    <a href="/" class="logo">
+      <img src="/res/images/icon.svg" alt="Praveen">
+    </a>
+  </h1>
+
+  <div>
+    <h4 class="profile-name">Praveen Kumar</h4>
+  </div>
+  <div class="description">a software engineer/web developer from Bangalore</div>
+
+  <nav role="navigation">
+    <ul>
+      <li><a href="/about">About</a></li>
+      <li><a href="/blog">Blog Posts</a></li>
+      <li><a href="/projects">Projects</a></li>
+    </ul>
+  </nav>
+</header>
+
+<div class="site-content" role="main">
+  {{ content }}
+</div>
+
+<footer>
+  This static site is built using <a href="https://jekyllrb.com/">jekyll</a> and source code avialble <a href="https://github.com/floydpraveen/floydpraveen.github.io">here</a>
+  Theme courtesy <a href="http://evanhahn.com/">evanhahn.com</a>
+</footer>
+
+<script src="/res/highlight.js"></script>
+<script>
+hljs.initHighlightingOnLoad();
+</script>
+
+</body>
+</html>
