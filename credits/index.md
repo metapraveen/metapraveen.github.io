@@ -10,4 +10,4 @@ The source code of this site is available on [github][3]
 
 [1]: https://thenounproject.com/
 [2]: https://jekyllrb.com/
-[3]: https://github.com/floydpraveen/floydpraveen.github.io
+[3]: https://github.com/praveen612/praveen612.github.io

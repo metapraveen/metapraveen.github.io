@@ -15,5 +15,5 @@ You can reach out to me at **pdnsjce@gmail.com**
 
 
  [1]: http://www.unbxd.com/
- [2]: https://twitter.com/floydpraveen
- [3]: https://github.com/floydpraveen
+ [2]: https://twitter.com/_praveen612
+ [3]: https://github.com/praveen612

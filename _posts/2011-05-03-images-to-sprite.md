@@ -71,6 +71,6 @@ Now you can compress the spritesheet
 
     grunt imagemin  
 
-You can refer to this [repo](https://github.com/floydpraveen/sprite-packer) for example.
+You can refer to this [repo](https://github.com/praveen612/sprite-packer) for example.
 
 
