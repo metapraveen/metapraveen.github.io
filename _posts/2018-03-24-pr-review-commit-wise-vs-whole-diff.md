@@ -13,7 +13,7 @@ Basically you can review a PR in 2 ways, one by checking the whole diff, and try
 pros
 - You can follow the PR author's mental model 
 - commit messages gives you a lot of context
-- This leads to avoiding commit messages saying "prod fixes", "tests update" etc.
+- Every change you see, you relate with a message, so every one tries to add clear message, so no more commit messages saying "some fixes", "prod fixes" etc.
 
 cons
 - code in one commit may change in the other one, so you can't make a review comment easily ( or you can make and ammend it later )
@@ -24,7 +24,9 @@ pros
 - you will see the code in final form which want to go to stable branch 
 
 cons
-- not reading commit message may lead to difference from the author
-- commit messages gets ignored while doing any changes
+- not reading commit message may lead to difference (e.g. as a author I write a message explaining a workaround from breakind a corner case, as a reviewer you miss the message and find that change is bad )
+- For some it is hard to see the complete change in one go and relate to the codebase
 
 I feel commit messages acts as documentation for your future self and others. Reviewing commit by commit and at the end seeing the whole diff would give you more context and that should lead to faster PR reviews. 
+
+Feel free to leave a comment about what your team follows and how effective it is. 
