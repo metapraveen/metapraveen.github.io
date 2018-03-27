@@ -3,9 +3,12 @@ title: blog posts
 author: Praveen
 layout: page
 ---
-* [closure with callbacks](/closures-with-callbacks)
+* [Github PR review whole diff vs commitwise](/pr-review-commitwise-vs-whole-diff)
 
-* [Convert images into a spritesheet using grunt](/images-into-a-spritesheet)
+* [JS bad parts fixed by ES6](/js-bad-parts-fixed-by-es6)
+
+* [closure with callbacks](/closures-with-callbacks)
 
 * [chosen with ember](/chosen-with-ember)
 
+* [Convert images into a spritesheet using grunt](/images-into-a-spritesheet)
