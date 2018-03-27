@@ -12,7 +12,7 @@ Basically, you can review a PR in 2 ways, one by checking the whole diff, and tr
 ## reviewing commit by commit
 pros
 - You can follow the PR author's mental model 
-- commit messages gives you a lot of contexts
+- Meaningful commit messages gives you a lot of contexts
 - Every change you see, you relate to a message, so everyone tries to add a clear message, so no more commit messages saying "some fixes", "prod fixes" etc.
 
 cons
