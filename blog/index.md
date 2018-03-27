@@ -3,7 +3,7 @@ title: blog posts
 author: Praveen
 layout: page
 ---
-* [Github PR review whole diff vs commitwise](/pr-review-commitwise-vs-whole-diff)
+* [Github PR review, commitwise vs whole diff](/pr-review-commitwise-vs-whole-diff)
 
 * [JS bad parts fixed by ES6](/js-bad-parts-fixed-by-es6)
 

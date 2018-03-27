@@ -1,5 +1,5 @@
 ---
-title: 'Github PR review commit wise vs whole diff'
+title: 'Github PR review, commitwise vs whole diff'
 author: Praveen
 layout: post
 permalink: /pr-review-commitwise-vs-whole-diff/
