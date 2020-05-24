@@ -2,7 +2,7 @@
 title: 'Adding on job complete callback to sidekiq'
 author: Praveen
 layout: post
-permalink: /add-on-complete-done-callback-to-sidekiq/
+permalink: /add-on-job-complete-callback-to-sidekiq/
 ---
 
 Came across a use case at work where I wanted record the status of the job I schedule ( enqueued, failed, success ).
@@ -10,7 +10,6 @@ On failure sidekiq calls `sidekiq_retries_exhausted` callback. But there is no c
 
 - Write a middleware for sidekiq which calls the on job complete on the job instance if the method is present
 <script src="https://gist.github.com/metapraveen/e93c723d54efeb3f8687bcdc56648bab.js"></script>
-
 You can keep this in under configs
 
 - Register this middleware in sidekiq configuration
