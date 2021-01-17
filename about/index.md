@@ -5,13 +5,12 @@ layout: page
 ---
 Hi,
 
-I'm Praveen Kumar, a software engineer currently living in Berlin.
-I work at an automotive startup as a frontend engineer.
-Previously I worked at [unbxd][1], an e-commerce search/recommendation platform startup.
+I'm Praveen Kumar, a software engineer from India currently living in Berlin.
 
-JavaScript & Ruby are my favourite programming languages. I like exploring Open-source libraries and learn from other programmers out there. Reading some of their blogs inspired to me create this one for myself so I can write my learnings here.
+JavaScript & Ruby are my favourite programming languages. I like exploring Open-source libraries and learn from other programmers out there. 
+Reading some of their blogs inspired to me create this one for myself so I can write my learnings here.
 
-You can reach out to me at pdn (dot) sjce at gmail.com
+You can reach out to me at praveen (dot) kumar at hey.com
  or [twitter][2] or collaborate with me on [github][3] or share your inspirational quote about life with me on [linkedin][4] :D
 
 
