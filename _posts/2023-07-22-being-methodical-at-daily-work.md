@@ -8,10 +8,14 @@ permalink: /being-methodical-at-your-daily-work/
 For long time my daily work was not organised, and I saw some recurrent problems with that.
 
 1. I easily forgot what I did few days back.
+
 2. Though I learnt things I did not internalise them well so I could share or talk about it with rest of the team
-3. Did not have list of things to improve in the product for long term though I came across pain points
+
+3. Did not opportunity list to improve the product or process in long term (though I thought about few things here and there)
+
 4. Often did not have topics for my bi weekly 1 to 1
-5. Did not have points to add in bi-monthly retro (though I saw few pain points these are not written down in structured way)
+
+5. Did not have points to add in bi-monthly retro for what to improve in team (though I saw few pain points these are not written down in structured way)
 
 To fix this I now organise my work by writing small notes and taking some time out after each chunk of work to write something down about it.
 
@@ -23,4 +27,5 @@ If I get frustrated with something I write it down and possible solution for it,
 
 Also this helped me to build my own brag doc of my achivements.
 
-As keeping multiple notes across feels hard so I built a web application to handle this. I will soon publish it so anyone else also struggling with organizing their work can give a try.
+As keeping multiple notes across feels hard so I built a web application for myself.
+I will soon publish it once I polish  a bit so anyone else also struggling with organizing their work can give a try.
